@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\rowan\\Code\\Android\\Vpan\\PhotoIntentActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\rowan\\.android\\build-cache\\d3c0491b771df4c555486c6de0258f108c590fdd\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\rowan\\Code\\Android\\Vpan\\PhotoIntentActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\rowan\\.android\\build-cache\\d3c0491b771df4c555486c6de0258f108c590fdd\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\rowan\\Code\\Android\\Vpan\\PhotoIntentActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\rowan\\.android\\build-cache\\d3c0491b771df4c555486c6de0258f108c590fdd\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\rowan\\Code\\Android\\Vpan\\PhotoIntentActivity\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\rowan\\.android\\build-cache\\d3c0491b771df4c555486c6de0258f108c590fdd\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]

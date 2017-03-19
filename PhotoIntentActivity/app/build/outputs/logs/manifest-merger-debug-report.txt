@@ -1,0 +1,120 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:3:7-50
+		INJECTED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:6:19-57
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:7:22-78
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:8:5-10:31
+	android:value
+		ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:10:9-28
+	android:name
+		ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:9:9-66
+application
+ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:11:5-20:19
+MERGED from [com.android.support:design:25.0.1] C:\Users\rowan\.android\build-cache\2f1e843e8698aa48115743b8a01accfd4a957290\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\rowan\.android\build-cache\d3c0491b771df4c555486c6de0258f108c590fdd\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\rowan\.android\build-cache\5bd8fa2698933fb4cf588f3357c7daffaa0bf20e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\rowan\.android\build-cache\de917a5ef2516908738e2028b30521913cf53c4a\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.0.1] C:\Users\rowan\.android\build-cache\508e8e2d645f3d6422ff8420460213ff11a47df9\output\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.0.0] C:\Users\rowan\.android\build-cache\084313f4f0805ed5ec02d04cba62c2463ce63a45\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\rowan\.android\build-cache\04ec4c4414349606ec52b0223d8d20c1e50573da\output\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\rowan\.android\build-cache\f6f35922d09c9e44421d1af872f36257ce550e3c\output\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\rowan\.android\build-cache\82f39cc70af104c698f106574a7a893bb13d0a5b\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\rowan\.android\build-cache\8a920de43179dc3c7aa0459ba63ae003f1b43f21\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\rowan\.android\build-cache\a9161b2241af872cd8b0f0975bbe9508eb38d644\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\rowan\.android\build-cache\b955c4a49328690c68365fa094823b8f44eeaa47\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\rowan\.android\build-cache\7533da183f9b4a299f4fb8067c5a4cf2ed40deaa\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\rowan\.android\build-cache\0fbac2a7d6fcb1589a3c58f829d635a769fb9c09\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\rowan\.android\build-cache\debc408ec66869990562758a24cfbc328e642652\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\rowan\.android\build-cache\b26d690760360b1eadc727a7644fcc08dc925f11\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:11:48-80
+	android:icon
+		ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:11:18-47
+activity#com.example.android.photobyintent.PhotoIntentActivity
+ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:label
+		ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:13:19-51
+	android:name
+		ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:12:19-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.0.1] C:\Users\rowan\.android\build-cache\2f1e843e8698aa48115743b8a01accfd4a957290\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.0.1] C:\Users\rowan\.android\build-cache\d3c0491b771df4c555486c6de0258f108c590fdd\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] C:\Users\rowan\.android\build-cache\5bd8fa2698933fb4cf588f3357c7daffaa0bf20e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.1] C:\Users\rowan\.android\build-cache\de917a5ef2516908738e2028b30521913cf53c4a\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.0.1] C:\Users\rowan\.android\build-cache\5f275a30983d0a60d58f837d54841e43da42ec09\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.0.1] C:\Users\rowan\.android\build-cache\508e8e2d645f3d6422ff8420460213ff11a47df9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:9.0.0] C:\Users\rowan\.android\build-cache\084313f4f0805ed5ec02d04cba62c2463ce63a45\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\rowan\.android\build-cache\04ec4c4414349606ec52b0223d8d20c1e50573da\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.0] C:\Users\rowan\.android\build-cache\f6f35922d09c9e44421d1af872f36257ce550e3c\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\rowan\.android\build-cache\82f39cc70af104c698f106574a7a893bb13d0a5b\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\rowan\.android\build-cache\8a920de43179dc3c7aa0459ba63ae003f1b43f21\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.0.1] C:\Users\rowan\.android\build-cache\a9161b2241af872cd8b0f0975bbe9508eb38d644\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.1] C:\Users\rowan\.android\build-cache\b955c4a49328690c68365fa094823b8f44eeaa47\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.1] C:\Users\rowan\.android\build-cache\7533da183f9b4a299f4fb8067c5a4cf2ed40deaa\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.1] C:\Users\rowan\.android\build-cache\0fbac2a7d6fcb1589a3c58f829d635a769fb9c09\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.1] C:\Users\rowan\.android\build-cache\debc408ec66869990562758a24cfbc328e642652\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.0.1] C:\Users\rowan\.android\build-cache\b26d690760360b1eadc727a7644fcc08dc925f11\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.0.1] C:\Users\rowan\.android\build-cache\2f1e843e8698aa48115743b8a01accfd4a957290\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rowan\Code\Android\Vpan\PhotoIntentActivity\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\rowan\.android\build-cache\04ec4c4414349606ec52b0223d8d20c1e50573da\output\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\rowan\.android\build-cache\04ec4c4414349606ec52b0223d8d20c1e50573da\output\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\rowan\.android\build-cache\04ec4c4414349606ec52b0223d8d20c1e50573da\output\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\rowan\.android\build-cache\04ec4c4414349606ec52b0223d8d20c1e50573da\output\AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\rowan\.android\build-cache\f6f35922d09c9e44421d1af872f36257ce550e3c\output\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\rowan\.android\build-cache\f6f35922d09c9e44421d1af872f36257ce550e3c\output\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\rowan\.android\build-cache\f6f35922d09c9e44421d1af872f36257ce550e3c\output\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\rowan\.android\build-cache\f6f35922d09c9e44421d1af872f36257ce550e3c\output\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.0] C:\Users\rowan\.android\build-cache\f6f35922d09c9e44421d1af872f36257ce550e3c\output\AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\rowan\.android\build-cache\8a920de43179dc3c7aa0459ba63ae003f1b43f21\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\rowan\.android\build-cache\8a920de43179dc3c7aa0459ba63ae003f1b43f21\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\rowan\.android\build-cache\8a920de43179dc3c7aa0459ba63ae003f1b43f21\output\AndroidManifest.xml:22:13-58
