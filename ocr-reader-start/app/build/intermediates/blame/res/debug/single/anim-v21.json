@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\rowan\\Code\\Android\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\rowan\\.android\\build-cache\\0b30ed4bbd32130a837c7ad98124ea6a2ae7b94f\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\rowan\\Code\\Android\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\rowan\\.android\\build-cache\\0b30ed4bbd32130a837c7ad98124ea6a2ae7b94f\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\rowan\\Code\\Android\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_appbar_state_list_animator.xml",
+        "source": "C:\\Users\\rowan\\.android\\build-cache\\0b30ed4bbd32130a837c7ad98124ea6a2ae7b94f\\output\\res\\anim-v21\\design_appbar_state_list_animator.xml"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\rowan\\Code\\Android\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "C:\\Users\\rowan\\.android\\build-cache\\fbed42455859ff383745f9528f568b4ee00325ca\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\rowan\\Code\\Android\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\rowan\\.android\\build-cache\\fbed42455859ff383745f9528f568b4ee00325ca\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\rowan\\Code\\Android\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\rowan\\.android\\build-cache\\0b30ed4bbd32130a837c7ad98124ea6a2ae7b94f\\output\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\rowan\\Code\\Android\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\rowan\\.android\\build-cache\\fbed42455859ff383745f9528f568b4ee00325ca\\output\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\rowan\\Code\\Android\\Vpan\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\rowan\\.android\\build-cache\\6c7bebf644713e57e2cec41d1a1bf93dbfc9a2dc\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rowan\\Code\\Android\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\rowan\\.android\\build-cache\\fbed42455859ff383745f9528f568b4ee00325ca\\output\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\rowan\\Code\\Android\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\rowan\\.android\\build-cache\\fbed42455859ff383745f9528f568b4ee00325ca\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "C:\\Users\\rowan\\Code\\Android\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\rowan\\.android\\build-cache\\fbed42455859ff383745f9528f568b4ee00325ca\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rowan\\Code\\Android\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\rowan\\.android\\build-cache\\fbed42455859ff383745f9528f568b4ee00325ca\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\rowan\\Code\\Android\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "C:\\Users\\rowan\\.android\\build-cache\\6c7bebf644713e57e2cec41d1a1bf93dbfc9a2dc\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\rowan\\Code\\Android\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\rowan\\.android\\build-cache\\fbed42455859ff383745f9528f568b4ee00325ca\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+    }
+]

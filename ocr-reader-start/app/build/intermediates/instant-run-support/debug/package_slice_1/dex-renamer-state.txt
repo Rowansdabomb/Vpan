@@ -1,0 +1,4 @@
+#Sat Mar 18 15:41:37 PDT 2017
+base.0=C\:\\Users\\rowan\\Code\\Android\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
+renamed.0=classes.dex
+file.0=C\:\\Users\\rowan\\Code\\Android\\android-vision\\visionSamples\\ocr-codelab\\ocr-reader-start\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex

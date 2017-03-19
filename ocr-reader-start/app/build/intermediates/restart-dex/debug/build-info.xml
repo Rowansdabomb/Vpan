@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    build-mode="HOT_WARM"
+    density="xxxhdpi"
+    format="10"
+    plugin-version="2.3.0"
+    timestamp="1489883104281"
+    token="2033637438739162213"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="288" />
+    <task
+        name="instant-run-dex"
+        duration="444" />
+    <task
+        name="instant-run-transform"
+        duration="37" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1489880368423"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1489882268874"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\outputs\apk\app-debug.apk"
+            type="SPLIT_MAIN" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1489882320516"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\builds\debug\1489882320516\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1489882501212"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\builds\debug\1489882501212\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1489882528501"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\builds\debug\1489882528501\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1489882540869"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\builds\debug\1489882540869\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1489882565565"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\builds\debug\1489882565565\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1489882591837"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\builds\debug\1489882591837\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1489882675749"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\builds\debug\1489882675749\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1489882705865"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\builds\debug\1489882705865\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1489882742828"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\builds\debug\1489882742828\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1489882793548"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\builds\debug\1489882793548\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        build-mode="HOT_WARM"
+        timestamp="1489883104281"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\rowan\Code\Android\android-vision\visionSamples\ocr-codelab\ocr-reader-start\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
